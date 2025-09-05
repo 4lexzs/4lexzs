@@ -14,7 +14,7 @@
 - 🌍 **Multilingual**: German, Spanish, English
 - 📍 **Based in** Sarmenstorf, Switzerland  
 - 🚀 **Available** starting Summer 2026
-- 🎯 **Focus**: Full-Stack Web Development
+- 🎯 **Focus**: App Development in general
 - 💡 **Always** exploring new technologies and best practices
 
 ---
