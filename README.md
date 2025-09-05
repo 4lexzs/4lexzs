@@ -176,14 +176,17 @@ Utility application for developers and students.
 
 ---
 
+```markdown
+---
+
 ## 🎯 Currently
 
 ```javascript
 const edwin = {
-   education: "IMS Baden - 3rd Year",
-   focus: ["Full-Stack Development", "Web Technologies", "User Experience"],
-   learning: ["Advanced React Patterns", "Backend Architecture", "UI/UX Design"],
-   available: "Summer 2026",
-   languages: ["German", "Spanish", "English"],
-   hobbies: ["Coding", "Problem Solving", "Technology Trends"]
+    education: "IMS Baden - 3rd Year",
+    focus: ["Full-Stack Development", "Web Technologies", "User Experience"],
+    learning: ["Advanced React Patterns", "Backend Architecture", "UI/UX Design"],
+    available: "Summer 2026",
+    languages: ["German", "Spanish", "English"],
+    hobbies: ["Coding", "Problem Solving", "Technology Trends"]
 };
