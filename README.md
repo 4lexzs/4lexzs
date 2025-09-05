@@ -1,4 +1,5 @@
 <div align="center">
+<!-- WICHTIG: Du musst ein Bild namens 'header.png' in dein Repository hochladen, damit dieses hier angezeigt wird. -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/4lexzs/4lexzs/main/header.png" alt="Header Banner mit Namen Edwin Alexander Paucar Vidal" />
 <h1>Hey, ich bin Edwin Alexander Paucar Vidal 👋</h1>
 <h3>Schüler an der Informatikmittelschule (IMS) Baden & angehender Webentwickler aus der Schweiz 🇨🇭</h3>
