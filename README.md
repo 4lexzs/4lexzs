@@ -1,58 +1,189 @@
+# 👋 Hey there, I'm Edwin Alexander Paucar Vidal
+
 <div align="center">
-<!-- WICHTIG: Du musst ein Bild namens 'header.png' in dein Repository hochladen, damit dieses hier angezeigt wird. -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/4lexzs/4lexzs/main/header.png" alt="Header Banner mit Namen Edwin Alexander Paucar Vidal" />
-<h1>Hey, ich bin Edwin Alexander Paucar Vidal 👋</h1>
-<h3>Schüler an der Informatikmittelschule (IMS) Baden & angehender Webentwickler aus der Schweiz 🇨🇭</h3>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=IMS+Student+%26+Developer;Building+scalable+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
-👨‍💻 Über Mich
-Ich bin ein engagierter und lernfreudiger Schüler im dritten Jahr der IMS Baden. Meine Leidenschaft gilt der Webentwicklung und dem Erschaffen von sauberen, benutzerfreundlichen digitalen Erlebnissen. Ich bin eine kommunikative, teamfähige und flexible Persönlichkeit und stets auf der Suche nach neuen Herausforderungen, um meine Fähigkeiten zu erweitern.
+---
 
-🛠️ Tech Stack & Skills
+## 💫 About Me
+
+**IMS Student & Aspiring Web Developer** passionate about creating clean, efficient code and beautiful user experiences.
+
+- 🎓 **Currently studying** at IMS Baden (3rd year)
+- 🌍 **Multilingual**: German, Spanish, English
+- 📍 **Based in** Sarmenstorf, Switzerland  
+- 🚀 **Available** starting Summer 2026
+- 🎯 **Focus**: Full-Stack Web Development
+- 💡 **Always** exploring new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack & Skills
+
 <table>
 <tr>
 <td valign="top" width="33%">
-<strong>Sprachen</strong><br><br>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Deutsch-Muttersprache-blue%3Fstyle%3Dfor-the-badge%26logo%3DReadMe%26logoColor%3Dwhite" alt="Deutsch">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spanisch-Muttersprache-yellow%3Fstyle%3Dfor-the-badge%26logo%3DReadMe%26logoColor%3Dwhite" alt="Spanisch">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Englisch-Fliessend-green%3Fstyle%3Dfor-the-badge%26logo%3DReadMe%26logoColor%3Dwhite" alt="Englisch">
+
+### 🌐 Languages
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
 </td>
 <td valign="top" width="33%">
-<strong>Frontend</strong><br><br>
-<!-- Passe diese Technologien an deine tatsächlichen Fähigkeiten an -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"></a>
+
+### ⚡ Frontend & Frameworks
+<div align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
 </td>
 <td valign="top" width="33%">
-<strong>Tools & Software</strong><br><br>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual_Studio_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" alt="VS Code"></a>
-<a href="https://github.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
+
+### 🔧 Tools & Software
+<div align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
 </td>
 </tr>
 </table>
 
-🚀 Projekte & Portfolio
-Meine wichtigsten Projekte findest du unten angepinnt! Jedes Projekt ist detailliert dokumentiert.
-Für einen vollständigen Überblick über meine Arbeiten besuche mein Portfolio:
+---
 
-➡️ Besuche meine Webseite: edwinpaucar.ch
+## 🌟 Featured Projects
 
-🔗 Kontakt & Links
-<p align="left">
-<a href="https://www.linkedin.com/in/edwin-alexander-paucar-vidal-58a26a317/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:alexpau17062007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-📊 Meine GitHub-Statistiken
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D4lexzs%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Edwin's GitHub Stats"/>
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D4lexzs%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Edwin's Top Languages"/>
-</p>
+### 🌐 [Personal Portfolio](https://edwinpaucar.ch/)
+Modern, responsive portfolio website showcasing my projects and skills.
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+**Features:**
+- Clean, modern design
+- Smooth animations
+- Mobile-first approach
+- Contact form integration
+
+[🔗 Live Demo](https://edwinpaucar.ch/) • [💻 Source Code](#)
+
+</td>
+<td width="50%">
+
+### 📱 Project Name (Coming Soon)
+Full-stack web application with modern features.
+
+**Tech:** `React` `Node.js` `Express` `MySQL`
+
+**Features:**
+- User authentication
+- Real-time updates
+- Responsive design
+- RESTful API
+
+[🔗 Live Demo](#) • [💻 Source Code](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Interactive Web App
+Dynamic web application with engaging user interface.
+
+**Tech:** `Vue.js` `JavaScript` `CSS3` `API Integration`
+
+**Features:**
+- Interactive UI components
+- Data visualization
+- Performance optimized
+- Cross-browser compatible
+
+[🔗 Live Demo](#) • [💻 Source Code](#)
+
+</td>
+<td width="50%">
+
+### 🔧 Development Tool
+Utility application for developers and students.
+
+**Tech:** `Python` `JavaScript` `HTML5` `CSS3`
+
+**Features:**
+- Command-line interface
+- Automated workflows
+- Custom configurations
+- Documentation
+
+[🔗 Live Demo](#) • [💻 Source Code](#)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=4lexzs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4lexzs&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexzs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4lexzs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🎯 Currently
+
+```javascript
+const edwin = {
+   education: "IMS Baden - 3rd Year",
+   focus: ["Full-Stack Development", "Web Technologies", "User Experience"],
+   learning: ["Advanced React Patterns", "Backend Architecture", "UI/UX Design"],
+   available: "Summer 2026",
+   languages: ["German", "Spanish", "English"],
+   hobbies: ["Coding", "Problem Solving", "Technology Trends"]
+};
