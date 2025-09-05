@@ -140,8 +140,3 @@ Interactive task management application for organizing daily activities.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4lexzs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="100%" />
 </div>
 
----
-
-## 🎯 Currently
-
-```javascript
