@@ -83,12 +83,12 @@ Modern, responsive portfolio website showcasing my projects and skills.
 - Project showcase
 - About me section
 
-[🔗 Live Demo](https://edwinpaucar.ch/) • [💻 Source Code](#)
+[🔗 Live Demo](https://edwinpaucar.ch/) • [💻 Source Code](https://github.com/4lexzs/Portfolio)
 
 </td>
 <td width="50%">
 
-### ✅ Todo List Application
+### Todo List Application
 Interactive task management application for organizing daily activities.
 
 **Tech:** `JavaScript` `HTML5` `CSS3` `Local Storage`
@@ -101,7 +101,7 @@ Interactive task management application for organizing daily activities.
 - Responsive design
 - Clean, intuitive interface
 
-[🔗 Live Demo](#) • [💻 Source Code](#)
+[🔗 Live Demo](https://to-do.edwinpaucar.ch/) • [💻 Source Code](https://github.com/4lexzs/To_do_Liste)
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Interactive task management application for organizing daily activities.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <table>
@@ -134,7 +134,7 @@ Interactive task management application for organizing daily activities.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4lexzs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="100%" />
