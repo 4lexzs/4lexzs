@@ -6,26 +6,26 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 **IMS Student & Aspiring Web Developer** passionate about creating clean, efficient code and beautiful user experiences.
 
-- 🎓 **Currently studying** at IMS Baden (3rd year)
-- 🌍 **Multilingual**: German, Spanish, English
-- 📍 **Based in** Sarmenstorf, Switzerland  
-- 🚀 **Available** starting Summer 2026
-- 🎯 **Focus**: App Development in general
-- 💡 **Always** exploring new technologies and best practices
+- **Currently studying** at IMS Baden (3rd year)
+- **Multilingual**: German, Spanish, English
+- **Based in** Sarmenstorf, Switzerland  
+- **Available** starting Summer 2026
+- **Focus**: App Development in general
+- **Always** exploring new technologies and best practices
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🌐 Languages
+### Languages
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,7 +37,7 @@
 </td>
 <td valign="top" width="33%">
 
-### ⚡ Frontend & Learning
+### Frontend & Learning
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,7 +48,7 @@
 </td>
 <td valign="top" width="33%">
 
-### 🔧 Tools & Software
+###  Tools & Software
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -63,14 +63,14 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 [Personal Portfolio](https://edwinpaucar.ch/)
+###  [Personal Portfolio](https://edwinpaucar.ch/)
 Modern, responsive portfolio website showcasing my projects and skills.
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
